@@ -93,10 +93,6 @@ The Hacker theme is intended to make it quick and easy for GitHub Pages users to
 
 My Hacker theme is for my use. I believe the best way to control a dependency is to own the dependency. This theme is a dependency for a website.
 
-## Contributing
-
-Interested in contributing to Hacker? We'd love your help. Hacker is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
-
 ### Previewing the theme locally
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
